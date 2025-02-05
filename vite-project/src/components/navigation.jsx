@@ -5,7 +5,7 @@ import Layout from "../pages/layout.jsx";
 import AboutMe from "../pages/aboutMe.jsx";
 import Portfolio from "../pages/portfolio.jsx";
 import Contact from "../pages/contact";
-// import Resume from "../pages/resume";
+import Resume from "../pages/resume";
 
 function Navigation(){
     const linkStyle = { border: '1px black', padding: '5px' };
@@ -17,7 +17,7 @@ function Navigation(){
                     <Route index element={<AboutMe />} />
                     <Route path="portfolio" element={<Portfolio />} />
                     <Route path="contact" element={<Contact />} />
-                    {/* <Route path="resume" element={<Resume />} /> */}
+                    <Route path="resume" element={<Resume />} />
                 </Route>
             </Routes>
         </BrowserRouter>

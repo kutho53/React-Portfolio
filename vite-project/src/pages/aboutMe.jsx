@@ -6,7 +6,7 @@ function AboutMe(){
       <h2>About me</h2>
       <img src={image} alt='stick figure' style={{ width: '200px', height: '200px', backgroundColor: 'pink', borderRadius: 100 }} />
       <p>
-        I am a passionate web developer with experience in creating dynamic and responsive web applications. I enjoy working with modern web technologies and continuously learning new skills to improve my craft.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
       </p>
     </section>
   )
