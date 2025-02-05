@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from "../pages/layout.jsx";
 import AboutMe from "../pages/aboutMe.jsx";
 import Portfolio from "../pages/portfolio.jsx";
-// import Contact from "../pages/contact";
+import Contact from "../pages/contact";
 // import Resume from "../pages/resume";
 
 function Navigation(){
@@ -16,8 +16,8 @@ function Navigation(){
                 <Route path="/" element={<Layout />}>
                     <Route index element={<AboutMe />} />
                     <Route path="portfolio" element={<Portfolio />} />
-                    {/* <Route path="contact" element={<Contact />} />
-                    <Route path="resume" element={<Resume />} /> */}
+                    <Route path="contact" element={<Contact />} />
+                    {/* <Route path="resume" element={<Resume />} /> */}
                 </Route>
             </Routes>
         </BrowserRouter>
