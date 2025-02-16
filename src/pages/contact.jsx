@@ -17,7 +17,7 @@ export default function Contact(){
       };
     return(
         <section id='contact'>
-            <h2>Contact</h2>
+            <h2 style={{marginTop: '2em'}}>Contact</h2>
             <form onSubmit={handleSubmit}>
                 <label>Name:
                     <input 

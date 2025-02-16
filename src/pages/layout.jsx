@@ -3,9 +3,10 @@ import { Outlet, Link } from "react-router-dom";
 const Layout = () => {
     return (
         <>
-        <nav class="navbar bg-dark navbar-dark fixed-top navbar-expand-lg">
+        <nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-top">
             <div class="container-fluid">
                 <div class="collapse navbar-collapse" id="navbarNav">
+                    <div class="navbar-brand">Kurt Thomas</div>
                     <ul class="navbar-nav">
                         <li class="nav-item">
                             <Link class="nav-link active" to="/">About Me</Link>
