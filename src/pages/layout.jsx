@@ -3,7 +3,7 @@ import { Outlet, Link } from "react-router-dom";
 const Layout = () => {
     return (
         <>
-        <nav class="navbar navbar-inverse navbar-expand-lg bg-body-tertiary">
+        <nav class="navbar bg-dark navbar-dark fixed-top navbar-expand-lg">
             <div class="container-fluid">
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <ul class="navbar-nav">
