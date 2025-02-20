@@ -5,7 +5,7 @@ function AboutMe(){
     <section class='container mt-5' id='aboutMe'>
       <h2 style={{marginTop: '2em', marginBottom: '1em'}}>About me</h2>
       <div class='row'>
-        <div class='col-4'>
+        <div class='col-sm-4'>
           <img src={image} alt='stick figure' style={{ width: '200px', height: '200px', backgroundColor: 'pink', borderRadius: 100 }} />
         </div>
         <div class='col-sm-8'>
