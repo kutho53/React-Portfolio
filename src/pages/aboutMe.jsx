@@ -10,9 +10,14 @@ function AboutMe(){
         </div>
         <div class='col-sm-8'>
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+          
+'About Me
+
+I'm a recent graduate of UNC-Chapel Hill's Software Development program with a passion for building practical, efficient, and user-focused solutions. My journey into software development began after earning a bachelor's degree in Business and working hands-on as an aviation technician—an experience that shaped my attention to detail, problem-solving mindset, and commitment to precision under pressure.
+
+Transitioning into tech felt like a natural evolution. I enjoy breaking down complex challenges and crafting clean, functional code that brings ideas to life. My background gives me a unique perspective: I understand both the technical and business sides of a project, and I thrive in environments where collaboration, adaptability, and continuous learning are key.
+
+Whether I'm writing JavaScript, exploring back-end frameworks, or diving into a new tool, I'm driven by curiosity and a desire to make meaningful contributions to every team I'm a part of.'
 
           </p>
         </div>
