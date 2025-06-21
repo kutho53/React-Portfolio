@@ -1,5 +1,6 @@
 
 import image from '../assets/istockphoto-1973365581-612x612.jpg';
+import image2 from '../assets/TicTacScreenshot.png';
 
 
 export default function Portfolio(){
@@ -11,7 +12,7 @@ export default function Portfolio(){
                     <div class='col-md card'>
                         <h3 class='card-header'>Tic-Tac-Toe</h3>
                         <div class='card-body'>
-                            <img src={image} alt='Sample Image' style={{ width: '200px', height: '200px', backgroundColor: 'blue', borderRadius: 100 }} />
+                            <img src={image2} alt='Sample Image' style={{ width: '250px', height: '200px', backgroundColor: 'blue', borderRadius: 100 }} />
                         </div>
                         <div class='card-footer'>
                             <a class='github link' href='https://github.com/kutho53/TicTacToe'>Github Repo</a>
