@@ -15,7 +15,7 @@ export default function Portfolio(){
                         </div>
                         <div class='card-footer'>
                             <a class='github link' href='https://github.com/kutho53/TicTacToe'>Github Repo</a>
-                            <a class='deployed link' href='https://kutho53.github.io/TicTacToe/' >Deployed Application</a>
+                            {/* <a class='deployed link' href='https://kutho53.github.io/TicTacToe/' >Deployed Application</a> */}
                         </div>   
                     </div>
                     <div class='col-md card'>
@@ -25,7 +25,7 @@ export default function Portfolio(){
                         </div>                                        
                         <div class='card-footer'>
                             <a class='github link' href='https://github.com/kutho53/WeatherSite'>Github Repo </a>
-                            <a class='deployed link' href='https://kutho53.github.io/WeatherSite/' >Deployed Application</a>
+                            {/* <a class='deployed link' href='https://kutho53.github.io/WeatherSite/' >Deployed Application</a> */}
                         </div>   
                     </div>
                     <div class='col-md card'>
@@ -35,11 +35,11 @@ export default function Portfolio(){
                         </div>
                         <div class='card-footer'>
                             <a class='github link' href='https://github.com/kutho53/README-Generator'>Github Repo </a>
-                            <a class='deployed link' href='https://kutho53.github.io/README-Generator/' >Deployed Application</a>
+                            {/* <a class='deployed link' href='https://kutho53.github.io/README-Generator/' >Deployed Application</a> */}
                         </div>                   
                     </div>
                 </div> 
-                <div class='row'>     
+                {/* <div class='row'>     
                     <div class='col-md card'>
                         <h3 class='card-header'>Project Example 1</h3>
                         <div class='card-body'>
@@ -70,7 +70,7 @@ export default function Portfolio(){
                             <a href='https://kutho53.github.io/README-Generator/' >Deployed Link</a>
                         </div>                   
                     </div>
-                </div>
+                </div> */}
             </section>
         </section>
     )
