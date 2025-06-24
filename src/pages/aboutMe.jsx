@@ -1,4 +1,4 @@
-import image from '../assets/Stick_Figure.svg.png';
+import image from '../assets/Screenshot_20250623_235626_Gallery.jpg';
 
 function AboutMe(){
   return (
