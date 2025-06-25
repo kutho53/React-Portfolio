@@ -3,7 +3,7 @@ export default function Resume(){
     return(
         <section id='resume'>
         <h2 style={{marginTop: '2em'}}>Resume</h2>
-            <div>Download my resume <a>here.</a></div>
+            <div>Download my resume <a href='src/assets/KurtisThomasResumeSE.docx.pdf' download>here.</a></div>
             <div>
                 <h3>Proficencies</h3>
                 <ul>
