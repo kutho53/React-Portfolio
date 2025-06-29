@@ -1,6 +1,6 @@
 export default function footer(){
     return(
-        <footer class="mt-5 p-4 bg-dark text-white text-center">Github: <a href='https://github.com/kutho53'>Kutho53</a> LinkedIn: <a href='www.linkedin.com/in/kurt-thomas-912168169'>Kurt Thomas</a></footer>
+        <footer class="mt-5 p-4 bg-dark text-white text-center">Github: <a href='https://github.com/kutho53'>Kutho53</a> LinkedIn: <a href='www.linkedin.com/in/kurt-thomas-912168169/'>Kurt Thomas</a></footer>
     )
 }
 
