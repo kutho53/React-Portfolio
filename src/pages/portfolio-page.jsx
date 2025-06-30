@@ -1,6 +1,6 @@
 
-import image from '../assets/istockphoto-1973365581-612x612.jpg';
-import image2 from '../assets/TicTacScreenshot.png';
+import sample from '../assets/istockphoto-1973365581-612x612.jpg';
+import ticTac from '../assets/TicTacScreenshot.png';
 
 
 export default function Portfolio(){
@@ -12,7 +12,7 @@ export default function Portfolio(){
                     <div class='col-md card'>
                         <h3 class='card-header'>Tic-Tac-Toe</h3>
                         <div class='card-body'>
-                            <img src={image2} alt='Sample Image' style={{ width: '250px', height: '200px', backgroundColor: 'blue', borderRadius: 100 }} />
+                            <img src={ticTac} alt='Image of Tic-Tac-Toe game.' style={{ width: '250px', height: '200px', borderRadius: 10 }} />
                         </div>
                         <div class='card-footer'>
                             <a class='github link' href='https://github.com/kutho53/TicTacToe'>Github Repo</a>
@@ -22,7 +22,7 @@ export default function Portfolio(){
                     <div class='col-md card'>
                         <h3 class='card-header'>WeatherStorm</h3>
                         <div class='card-body'>
-                            <img src={image} alt='Sample Image' style={{ width: '200px', height: '200px', backgroundColor: 'blue', borderRadius: 100 }} />
+                            <img src={sample} alt='Sample Image' style={{ width: '200px', height: '200px', backgroundColor: 'blue', borderRadius: 10 }} />
                         </div>                                        
                         <div class='card-footer'>
                             <a class='github link' href='https://github.com/kutho53/WeatherSite'>Github Repo </a>
@@ -32,7 +32,7 @@ export default function Portfolio(){
                     <div class='col-md card'>
                         <h3 class='card-header'>Readme Generator</h3>
                         <div class='card-body'>
-                            <img src={image} alt='Sample Image' style={{ width: '200px', height: '200px', backgroundColor: 'blue', borderRadius: 100 }} />
+                            <img src={sample} alt='Sample Image' style={{ width: '200px', height: '200px', backgroundColor: 'blue', borderRadius: 10 }} />
                         </div>
                         <div class='card-footer'>
                             <a class='github link' href='https://github.com/kutho53/README-Generator'>Github Repo </a>
@@ -72,6 +72,9 @@ export default function Portfolio(){
                         </div>                   
                     </div>
                 </div> */}
+            </section>
+            <section>
+                    <h2 style={{marginTop: '2em'}}>Download my resume <a href='src/assets/KurtisThomasResumeSE.docx.pdf' download>here.</a></h2>
             </section>
         </section>
     )

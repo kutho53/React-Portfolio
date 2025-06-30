@@ -6,8 +6,8 @@ export default function Footer(){
     )
 }
 
-<div class="mt-5 p-4 footer-expand bg-dark text-white text-center">
+{/* <div class="mt-5 p-4 footer-expand bg-dark text-white text-center">
   <p>Footer</p>
-</div>
+</div> */}
 
 // mt-5 p-4 bg-dark text-white text-center

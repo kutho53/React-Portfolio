@@ -3,6 +3,7 @@
   line-height: 1.5;
   font-weight: 400;
 
+  background-image: url('./assets/background.png');
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
   background-color: #242424;
@@ -23,6 +24,7 @@ a:hover {
 }
 
 body {
+  background: #000;
   margin: 0;
   display: flex;
   place-items: top;
@@ -65,4 +67,9 @@ button:focus-visible {
   button {
     background-color: #f9f9f9;
   }
+}
+
+.responsive-text {
+  font-size: clamp(1rem, 2vw, 1.25rem);
+  line-height: 1.6;
 }
