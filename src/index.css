@@ -3,7 +3,7 @@
   line-height: 1.5;
   font-weight: 400;
 
-  background-image: url('./assets/background.png');
+
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
   background-color: #242424;
@@ -25,6 +25,7 @@ a:hover {
 
 body {
   background: #000;
+  background-image: url('./assets/background.png');
   margin: 0;
   display: flex;
   place-items: top;
