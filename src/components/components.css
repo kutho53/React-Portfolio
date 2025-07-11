@@ -4,4 +4,13 @@ footer {
   right: 0;
   bottom: 0;
   width: 100vw;
+  height: 10%;
 }
+
+.logo-icon {
+  height: auto;
+  width: auto;
+  max-height: 80px;
+  max-width: 80px;
+}
+

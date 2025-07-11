@@ -4,14 +4,20 @@ import GHLogo from '../assets/github.png';
 
 export default function Footer(){
     return(
-        <footer className="mt-5 p-4 bg-dark text-white text-center"> <a href='https://github.com/kutho53'> <img src={GHLogo}
-          alt='GitHub Logo'
-          className="img-fluid"
-          style={{ backgroundColor: 'black', borderRadius: 10 }}/></a>
-<a href='https://linkedin.com/in/kurt-thomas-912168169/'><img src={LILogo}
-          alt='LinkedIn Logo'
-          className="img-fluid"
-          style={{ backgroundColor: 'black', borderRadius: 10 }}/></a></footer>
+        <footer className="mt-5 p-4 bg-dark text-white text-center"> 
+          <a href='https://github.com/kutho53' className> 
+            <img src={GHLogo}
+            alt='GitHub Logo'
+            className="img-fluid logo-icon"
+            style={{ backgroundColor: 'black', borderRadius: 10 }}/>
+          </a>
+          <a href='https://linkedin.com/in/kurt-thomas-912168169/'>
+            <img src={LILogo}
+            alt='LinkedIn Logo'
+            className="img-fluid logo-icon"
+            style={{ backgroundColor: 'black', borderRadius: 10 }}/>
+          </a>
+        </footer>
     )
 }
 
