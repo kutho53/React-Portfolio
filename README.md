@@ -4,11 +4,8 @@
   Portfolio website built using react.
 
   ## Table of Contents 
-  * [Installation](#installation)
-  * [Usage](#Usage)
   * [License](#License)
   * [Contributing](#Contributing)
-  * [Test](#Test)
   * [Questions](#Questions)
   
   
