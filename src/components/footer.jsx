@@ -17,7 +17,7 @@ export default function Footer(){
             className="img-fluid logo-icon"
             style={{ backgroundColor: 'black', borderRadius: 10 }}/>
           </a>
-<div>email: kurtisthomas53@gmail.com</div>
+          <div>email: kurtisthomas53@gmail.com</div>
         </footer>
     )
 }

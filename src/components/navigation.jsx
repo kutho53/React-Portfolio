@@ -16,7 +16,7 @@ function Navigation(){
                 <Route path="/" element={<Layout />}>
                     <Route index element={<AboutMe />} />
                     <Route path="portfolio-page" element={<Portfolio />} />
-                    //<Route path="contact" element={<Contact />} />
+                    <Route path="contact" element={<Contact />} />
                     <Route path="resume" element={<Resume />} />
                 </Route>
             </Routes>

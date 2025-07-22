@@ -4,13 +4,17 @@ footer {
   right: 0;
   bottom: 0;
   width: 100vw;
-  height: 10%;
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
 }
 
 .logo-icon {
-  height: auto;
+  height: 70%;
   width: auto;
-  max-height: 80px;
-  max-width: 80px;
+  max-height: 55px;
+  max-width: 15vw;
 }
 

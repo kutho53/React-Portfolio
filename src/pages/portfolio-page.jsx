@@ -10,9 +10,11 @@ export default function Portfolio(){
             <section>
                 <div className='row'> 
                     <div className='col-md card'>
-                        <h3 className='card-header'>Tic-Tac-Toe</h3>
-                        <div className='card-body'>
-                            <img src={ticTac} alt='Image of Tic-Tac-Toe game.' style={{ width: '250px', height: '200px', borderRadius: 10 }} />
+                        <div className='card-header'>
+                            <h3>Tic-Tac-Toe</h3>
+                        </div>
+                        <div className='card-body center-content'>
+                            <img src={ticTac} alt='Image of Tic-Tac-Toe game.' style={{ width: '250px', height: '200px', borderRadius: 10 ,}} />
                         </div>
                         <div className='card-footer'>
                             <a className='github link' href='https://github.com/kutho53/TicTacToe'>Github Repo</a>
@@ -20,8 +22,10 @@ export default function Portfolio(){
                         </div>   
                     </div>
                     <div className='col-md card'>
-                        <h3 className='card-header'>WeatherStorm</h3>
-                        <div className='card-body'>
+                        <div className='card-header'>
+                            <h3>WeatherStorm</h3>
+                        </div>
+                        <div className='card-body center-content'>
                             <img src={sample} alt='Sample Image' style={{ width: '200px', height: '200px', backgroundColor: 'blue', borderRadius: 10 }} />
                         </div>                                        
                         <div className='card-footer'>
@@ -30,8 +34,10 @@ export default function Portfolio(){
                         </div>   
                     </div>
                     <div className='col-md card'>
-                        <h3 className='card-header'>Readme Generator</h3>
-                        <div className='card-body'>
+                        <div className='card-header'>
+                            <h3>Readme Generator</h3>
+                        </div>
+                        <div className='card-body center-content'>
                             <img src={sample} alt='Sample Image' style={{ width: '200px', height: '200px', backgroundColor: 'blue', borderRadius: 10 }} />
                         </div>
                         <div className='card-footer'>

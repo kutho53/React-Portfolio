@@ -1,4 +1,22 @@
 .card {
-    background: gray
+    background-color: grey;
+}
 
+.card .card-header {
+    background-color: darkgrey
+}
+
+.card .card-footer {
+    background-color: darkgrey
+}
+
+.card .card-body {
+    background-color: black
+}
+
+.card-body.center-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 220px;
 }
