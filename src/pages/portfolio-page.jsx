@@ -1,6 +1,7 @@
 import "./pages.css";
 import sample from '../assets/istockphoto-1973365581-612x612.jpg';
 import ticTac from '../assets/TicTacScreenshot.png';
+import weatherIcon from '../assets/weather-109.png';
 
 
 export default function Portfolio(){
