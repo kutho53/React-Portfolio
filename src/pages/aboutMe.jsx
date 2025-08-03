@@ -1,4 +1,4 @@
-import image from '../assets/Screenshot_20250623_235626_Gallery.jpg';
+import image from '../assets/bioPhoto.png';
 
 function AboutMe(){
   return (
