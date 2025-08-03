@@ -25,23 +25,3 @@ function Navigation(){
 }
 
 export default Navigation
-
-
-// <nav className="main-header-menu">
-        //     <section
-        //       class = "navStyle"
-        //     >
-        //         <div style={linkStyle}>
-        //             <a href='./src/pages/aboutMe.jsx'>About me</a>
-        //         </div>
-        //         <div style={linkStyle}>
-        //             <a href='./src/pages/portfolio'>Portfolio</a>
-        //         </div>
-        //         <div style={linkStyle}>
-        //             <a href='#contact'>Contact</a>
-        //         </div>
-        //         <div style={linkStyle}>
-        //             <a href='#resume'>Resume</a>
-        //         </div>
-        //     </section>
-        // </nav>

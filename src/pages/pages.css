@@ -1,17 +1,17 @@
 .card {
-    background-color: grey;
+    background-color: rgb(30, 43, 43);
 }
 
 .card .card-header {
-    background-color: darkgrey
+    background-color: rgb(30, 43, 43);
 }
 
 .card .card-footer {
-    background-color: darkgrey
+    background-color: rgb(30, 43, 43);
 }
 
 .card .card-body {
-    background-color: black
+    background-color: rgb(30, 43, 43);
 }
 
 .card-body.center-content {
@@ -19,4 +19,29 @@
     justify-content: center;
     align-items: center;
     min-height: 220px;
+}
+
+.portfolio-section {
+    margin-top: 2em;
+}
+
+.project-image {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+.portfolio-card {
+    margin-bottom: 1rem;
+    margin-left: 0.25rem;
+    margin-right: 0.25rem;
+}
+
+.github-link {
+    color: lightskyblue;
+    text-decoration: none
+}
+
+.github-link:hover {
+    text-decoration: underline;
 }
