@@ -27,7 +27,7 @@ export default function Contact(){
                             id='name'
                             name='name'
                             className='formControl'
-                            value={FormData.nam} 
+                            value={FormData.name} 
                             onChange={handleChange}
                             required
                             placeholder="Enter your name"
