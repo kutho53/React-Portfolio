@@ -2,6 +2,7 @@
 
   ## Description 
   Portfolio website built using react.
+Link to deployed site: https://react-portfolio-sumo.onrender.com/
 
   ## Table of Contents 
   * [License](#License)
